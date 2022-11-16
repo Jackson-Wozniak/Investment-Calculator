@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Investment-Calculator/static/css/main.dd518bc0.css",
+    "main.js": "/React-Investment-Calculator/static/js/main.9e6fef00.js",
+    "index.html": "/React-Investment-Calculator/index.html",
+    "main.dd518bc0.css.map": "/React-Investment-Calculator/static/css/main.dd518bc0.css.map",
+    "main.9e6fef00.js.map": "/React-Investment-Calculator/static/js/main.9e6fef00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd518bc0.css",
+    "static/js/main.9e6fef00.js"
+  ]
+}
